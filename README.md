@@ -1,4 +1,4 @@
-# Sentiment_Analysis_from_Airline_Tweets <Kaggle>
+# Sentiment_Analysis_with_Airline_Tweets <Kaggle>
 
 ### Motivation
 My goal for this project includes the following
