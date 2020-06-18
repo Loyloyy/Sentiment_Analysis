@@ -1,4 +1,4 @@
-# Sentiment Analysis using NLTK and Deep Learning (2) <Kaggle>
+# Sentiment_Analysis_from_Airline_Tweets <Kaggle>
 
 ### Motivation
 My goal for this project includes the following
